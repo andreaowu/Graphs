@@ -1,0 +1,1 @@
+java make.Main -f make-tests/make6.make -D make-tests/make6.info "T1"

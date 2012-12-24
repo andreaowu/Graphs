@@ -1,0 +1,1 @@
+java trip.Main -m trip-tests/trip6.txt trip-tests/trip6.request

@@ -1,0 +1,1 @@
+java make.Main -f make-tests/make3.make -D make-tests/make3.info "C"

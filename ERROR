@@ -1,0 +1,21 @@
+1.
+cd trip
+gmake check
+
+The tests should pass, but gmake check doesn't pass them. How should I fix this?
+
+2.
+gmake
+
+java make.Main -f makefile1.tst -D fileinfo1.tst "T1"
+
+java make.Main -f makefile4.tst -D fileinfo4.tst "A B C"
+
+java make.Main -f makefile8.tst -D fileinfo8.tst "T1"
+ 
+java make.Main -f makefile9.tst -D fileinfo9.tst "T1"
+
+These correspond to tests 1, 4, 8, and 9 on the autograder, and for some reason, the
+output I get from testing these do not match the ones I get back from the autograder.
+What could be wrong, and how should I fix it?  All of these tests pass correctly when
+I run them on ssh from my laptop.

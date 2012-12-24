@@ -1,0 +1,4 @@
+Albany NY_Thruway 5 NS Troy
+Troy NY_Thruway 35 NS C1
+C1 NY_Thruway 5 WE C2
+C2 NY_Thruway 150 NS NYC

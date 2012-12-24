@@ -1,0 +1,1 @@
+java make.Main -f make-tests/make4.make -D make-tests/make4.info "A B C"

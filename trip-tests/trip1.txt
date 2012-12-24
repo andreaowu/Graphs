@@ -1,0 +1,11 @@
+Berkeley University_Ave 0.125 EW C1
+C1 Martin_Luther_King_Jr_Way 1.1675 NS C2
+C2 Ashby_Ave 1.8125 EW C3a
+C3a I-580 1.0 EW C3
+C3 I-80 8.375 EW San_Francisco
+San_Francisco US-101 34.5 NS C4
+C4 CA-85 13.0 NS C4a
+C4a CA-85 0.25 NS C4b
+C5 CA-85 0.0625 SN C4b
+C5 CA-17 22.1875 NS C6
+Santa_Cruz CA-1 1.0 NS C6

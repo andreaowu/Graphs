@@ -54,7 +54,6 @@ graph (subdirectory):  Package containing general graph-related data types.
         NoLabel.java:
                Convenience type representing absent labels (for unlabeled 
                vertices and edges).
-               
 
         Basic.java:
                Non-exported implementation class used to provided methods and
@@ -99,10 +98,11 @@ make (subdirectory): Package containing the 'make' application.
                
 trip (subdirectory): Package containing the 'trip' application.
 
-        Makefile:
+        Trip:
                 See above.
 
-        Main.java:  Contains main program for 'trip'.
+        Main.java:  
+               Contains main program for 'trip'.
 
         Testing.java:
                 JUnit tests for trip package
@@ -111,6 +111,6 @@ trip (subdirectory): Package containing the 'trip' application.
 test-app:       A general-purpose test script.  See the comment at the beginning
                 for usage.
 
-make-tests:     Regression tests for the make application (currently empty).
+make-tests:     Regression tests for the make application.
 
-trip-tests:     Regression tests for the make application (currently empty).
+trip-tests:     Regression tests for the trip application.
